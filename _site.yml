@@ -1,7 +1,6 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Carlos A. Ordóñez-Parra"
   left:
     - text: "Home"
       href: index.html
