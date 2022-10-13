@@ -1,8 +1,15 @@
 name: "personal-website"
 output_dir: "."
+title: "Carlos A. Ordóñez-Parra"
 navbar:
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Science Communication"
+      href: scicomm.html
+    - text: "Contact"
+      href: contact.html

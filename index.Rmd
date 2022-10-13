@@ -1,5 +1,5 @@
 ---
-title: "Carlos A. Ordóñez-Parra Website"
+title: "Carlos A. Ordóñez-Parra"
 ---
 
 Hello, World!
