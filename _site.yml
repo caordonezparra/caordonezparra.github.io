@@ -13,3 +13,6 @@ navbar:
       href: scicomm.html
     - text: "Contact"
       href: contact.html
+output:
+  html_document:
+    theme: sandstone
