@@ -2,6 +2,7 @@
 title: "Publications"
 ---
 
+<div style="text-align: justify">
 Here you will find an updated list of my publications (last update, Oct. 13th, 2022). If you can't access any of these resources, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
 <br/><br/>
 
@@ -27,3 +28,4 @@ Here you will find an updated list of my publications (last update, Oct. 13th, 2
 > Barrera-Cataño JI, Moreno AC, Contreras S, **Ordóñez-Parra CA**, Díaz Ariza LA, ... Basto S (2018). Capítulo 6. Estrategias de restauración ecológica para zonas post-tala en el PFEN. In: Basto S. Moreno AC, Barrera-Cataño JI, eds. [_Restauración ecológica en áreas post-tala de especies exóticas en el Parque Forestal Embalse del Neusa_](https://repository.javeriana.edu.co/handle/10554/44696). Pontificia Universidad Javeriana & Corporación Autónoma Regional de Cundinamarca - CAR, 155-182.
 
 > Basto S, **Ordóñez-Parra, CA**, Roa-Fuentes, LL, Castillo-Díaz, D, Rivera-Díaz A (2018). Semillas: ¿promueven o limitan la restauración ecológica? In: Pinzón-García P, Aguilar-Garavito M, Quijano M, Sierra J, Rubio JA, eds. _Restauración Ecológica en Colombia: un compromiso de país_. Red Colombiana de Restauración Ecológica & Universidad Católica de Oriente, 357-384.
+</div>
