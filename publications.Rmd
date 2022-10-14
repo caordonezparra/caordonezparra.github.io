@@ -10,16 +10,45 @@ Here you will find an updated list of my publications (last update, Oct. 13th, 2
 
 > **Ordóñez‐Parra CA**, Dayrell RLC, Negreiros D, Andrade AC, Andrade LG, Antonini Y, ... & Silveira FAO (2022). [Rock n’ Seeds: A database of seed functional traits and germination experiments from Brazilian rock outcrop vegetation](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852). _Ecology_.
 
+</div>
+
+<center>
+<figure>
+  <img src="Images/Figure1.png" width="800"/>
+  <figcaption> _Figure 2 in the datapaper metadata showing the ten families with most species in the dataset._ </figcaption>
+</figure> 
+</center>
+<br/>
+
+<div style="text-align: justify">
+
 > Toone TA, Ahler SJ, Larson JE, Luong JC, Martínez‐Baena F, **Ordóñez‐Parra CA**, ... & van der Ouderaa IB (2022). [Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13743). _Restoration Ecology_, e13743.
 
 > Silveira FAO, **Ordóñez‐Parra CA**, Moura LC, Schmidt IB, Andersen AN, Bond W, ... & Pennington RT (2022). [Biome Awareness Disparity is BAD for tropical ecosystem conservation and restoration](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14060). _Journal of Applied Ecology_, 59(8), 1967-1975.
-<br/><br/>
+
+<center>
+<figure>
+  <img src="Images/Figure2.png" width="800"/>
+  <figcaption> _Figure 2 in Silveira et al. (2022) showing the disparity between empirical research and biome area._ </figcaption>
+</figure> 
+</center>
+<br/>
 
 ### Book Chapters
 
 > **Ordóñez-Parra CA**, Messeder JVS, Mancipe-Murillo C, Calderón-Hernández M, & Silveira FAO (2022). [Seed Germination Ecology in Neotropical Melastomataceae: Past, Present, and Future](https://link.springer.com/chapter/10.1007/978-3-030-99742-7_32). In: Goldenberg R, Michelangeli FA, Almeda F, eds. _Systematics, Evolution, and Ecology of Melastomataceae_. Springer, Cham., 707-733.
 
 > Daibes LF, **Ordóñez-Parra CA**, Dayrell RLC, Silveira FAO (2022). [Regeneration from seeds in South American savannas, in particular the Brazilian Cerrado](https://www.sciencedirect.com/science/article/pii/B9780128237311000020?via%3Dihub) In: Baskin CC, Baskin JM, eds. _Plant Regeneration from Seeds_. Elsevier, 183–197.
+
+<center>
+<figure>
+  <img src="Images/Figure3.jpg" width="800"/>
+  <figcaption> _Figure 1 in Daibes et al. (2022) showing the records recovered by our literature review._ </figcaption>
+</figure> 
+</center>
+<br/>
+
+<div style="text-align: justify">
 
 > Basto S, **Ordóñez-Parra CA**, Contreras S, Díaz Ariza LA, Acero Nitola AM, ... Barrera-Cataño JI (2018). Capítulo 1. Bosque Altoandino. In: Basto S, Moreno AC, Barrera-Cataño JI, eds. [_Restauración ecológica en áreas post-tala de especies exóticas en el Parque Forestal Embalse del Neusa_](https://repository.javeriana.edu.co/handle/10554/44696). Pontificia Universidad Javeriana & Corporación Autónoma Regional de Cundinamarca - CAR, 27-54.
 
@@ -28,4 +57,5 @@ Here you will find an updated list of my publications (last update, Oct. 13th, 2
 > Barrera-Cataño JI, Moreno AC, Contreras S, **Ordóñez-Parra CA**, Díaz Ariza LA, ... Basto S (2018). Capítulo 6. Estrategias de restauración ecológica para zonas post-tala en el PFEN. In: Basto S. Moreno AC, Barrera-Cataño JI, eds. [_Restauración ecológica en áreas post-tala de especies exóticas en el Parque Forestal Embalse del Neusa_](https://repository.javeriana.edu.co/handle/10554/44696). Pontificia Universidad Javeriana & Corporación Autónoma Regional de Cundinamarca - CAR, 155-182.
 
 > Basto S, **Ordóñez-Parra, CA**, Roa-Fuentes, LL, Castillo-Díaz, D, Rivera-Díaz A (2018). Semillas: ¿promueven o limitan la restauración ecológica? In: Pinzón-García P, Aguilar-Garavito M, Quijano M, Sierra J, Rubio JA, eds. _Restauración Ecológica en Colombia: un compromiso de país_. Red Colombiana de Restauración Ecológica & Universidad Católica de Oriente, 357-384.
+
 </div>

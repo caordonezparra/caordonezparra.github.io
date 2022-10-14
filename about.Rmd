@@ -16,6 +16,13 @@ Besides these topics, I'm interested in science decolonisation and how we can ma
 You might find a complete version of my curriculum here, and if you are willing to discuss or collaborate on any of these topics, don't hesitate to [contact](https://caordonezparra.github.io/contact.html) me!
 </div>
 
-<div class = "col-md-6">
+<div style="text-align: center" class = "col-md-6">
 ![](Images/Photo1.jpg)
+<br/>
+
+The face of someone who just met the _campo rupestre_. Photo by Jade Albanaz.
+
+![](Images/Photo2.jpg)
+
+Pretending to be a photographer. Photo by Diana Acosta-Rojas
 </div>
