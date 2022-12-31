@@ -1,5 +1,26 @@
 ---
 title: "Contact"
 ---
+<div class = "row">
 
-Ways of contacting me!
+<div style="text-align: justify" class = "col-md-6">
+
+There are many ways in which you can contact me. Probably, the easiest way to reach me is via [e-mail](mailto:carlos.ordonez.parra@gmail.com).
+
+Still, you can find me in other social media. Remember, you can reach me in Spanish, English or Portuguese!
+
+<br/>
+
+<center>
+
+[![Twitter](Images/Twitter.png)](https://twitter.com/caordonezparra)[![Google Scholar](Images/GoogleScholar.png)](https://scholar.google.com/citations?user=FeT24AgAAAAJ&hl=en) [![ResearchGate](Images/ResearchGate.png)](https://www.researchgate.net/profile/Carlos-Ordonez-Parra) [![GitHub](Images/GitHub.png)](https://github.com/caordonezparra) [![ORCID](Images/ORCID.png)](https://orcid.org/0000-0002-2319-0252)
+
+</center>
+
+</div>
+
+<div style="text-align: center" class = "col-md-6">
+![](Images/Photo3.jpg)
+<br/>
+
+Some random holidays in Colombia. Photo by Sara Gutierrez
