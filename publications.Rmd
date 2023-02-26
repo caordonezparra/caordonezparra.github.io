@@ -6,9 +6,15 @@ title: "Publications"
 Here you will find an updated list of my publications (last update, December 2022). If you can't access any of these resources, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
 <br/><br/>
 
+### Preprints
+
+> **Ordóñez-Parra CA**, Medeiros NF, Dayrell RLC, Le Stradic S, Negreiros D, Cornelissen T & Silveira FAO (2023) [Seed functional ecology in Brazilian rock outcrop vegetation: an integrative synthesis](https://www.biorxiv.org/content/10.1101/2023.03.21.533674v1). _bioRxiv_, https://doi.org/10.1101/2023.03.21.533674
+
 ### Peer-reviewed Papers
 
-> **Ordóñez‐Parra CA**, Dayrell RLC, Negreiros D, Andrade AC, Andrade LG, Antonini Y, ... & Silveira FAO (2022). [Rock n’ Seeds: A database of seed functional traits and germination experiments from Brazilian rock outcrop vegetation](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852). _Ecology_.
+> Arruda AJ, Medeiros NF, Fiorini CF, **Ordóñez-Parra CA**, Dayrell RLC, Messeder JVS, ... & Silveira FAO (2023) [Ten principles for restoring campo rupestre, a threatened tropical, megadiverse, nutrient-impoverished montane grassland](https://doi.org/10.1111/rec.13924). _Restoration Ecology_, e13924.
+
+> **Ordóñez‐Parra CA**, Dayrell RLC, Negreiros D, Andrade AC, Andrade LG, Antonini Y, ... & Silveira FAO (2022). [Rock n’ Seeds: A database of seed functional traits and germination experiments from Brazilian rock outcrop vegetation](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852). _Ecology_, 104(1), e3852.
 
 </div>
 
@@ -22,7 +28,7 @@ Here you will find an updated list of my publications (last update, December 202
 
 <div style="text-align: justify">
 
-> Toone TA, Ahler SJ, Larson JE, Luong JC, Martínez‐Baena F, **Ordóñez‐Parra CA**, ... & van der Ouderaa IB (2022). [Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13743). _Restoration Ecology_, e13743.
+> Toone TA, Ahler SJ, Larson JE, Luong JC, Martínez‐Baena F, **Ordóñez‐Parra CA**, ... & van der Ouderaa IB (2022). [Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13743). _Restoration Ecology_, 31(3) e13743.
 
 > Silveira FAO, **Ordóñez‐Parra CA**, Moura LC, Schmidt IB, Andersen AN, Bond W, ... & Pennington RT (2022). [Biome Awareness Disparity is BAD for tropical ecosystem conservation and restoration](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14060). _Journal of Applied Ecology_, 59(8), 1967-1975.
 
