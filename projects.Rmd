@@ -7,18 +7,18 @@ title: "Research Projects"
 Here you'll find information about my academic projects. If you are interested in collaborating or discussing some ideas, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com)!
 <br/><br/>
 
-### To germinate or not germinate: the role of germination traits in risk-reducing strategies (2023 - Ongoing)
+### To germinate or not germinate: risk-reducing strategies meet seed germination traits (2023 - Ongoing)
 
 <br/>
 <center>
 <figure>
   <img src="Images/Figure12.JPG" width="1200"/>
-  <figcaption> _Campos pedregosos at Serra do Cipó (Minas Gerais, Brazil)._ </figcaption>
+  <figcaption> _Savannah landscape in the Parque Nacional Chapada dos Veadeiros (Goiás, Brazil)._ </figcaption>
 </figure> 
 </center>
 <br/>
 
-Seed ecologists expect that there is a strong evolutionary pressure to ensure that germination occurs only under optimal conditions for seedling establishment and survival. Yet, different studies show that species fall into some of these big categories, according to their germination behaviour: risk-takers (i.e., those germinating in unpredictable environments, where optimal conditions may be ephemeral) and the risk-avoiders (i.e., those that restrict germination to more stable environments). In my PhD, I'll delve into how different germination traits shape different risk-reducing strategies in tropical species.
+Seed ecologists expect that there is a strong evolutionary pressure to ensure that germination occurs only under optimal conditions for seedling establishment and survival. Yet, different studies show that species fall into some of these big categories, according to their germination behaviour: risk-takers (i.e., those germinating in unpredictable environments, where optimal conditions may be ephemeral) and the risk-avoiders (i.e., those that restrict germination to more stable environments). In my PhD, I'll delve into how different germination traits shape different risk-reducing strategies in tropical species, focusing on the species from the Brazilian Cerrado -the largest Neotropical savannah and the one with most species worldwide.
 
 <br/>
 
@@ -33,7 +33,7 @@ Seed ecologists expect that there is a strong evolutionary pressure to ensure th
 </center>
 <br/>
 
-As part of my Master's Dissertation, I compiled a database of 16 seed functional traits from Brazilian rock oucrop vegetation -including ecosystems locally known as _campo rupestre_, _canga_, _campo de altitude_ and inselbergs- that has been published as a [data paper](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852) in _Ecology_. With this database, I've been working on a quantitative synthesis of seed ecology in these ecosystems, focusing on the phylogenetic structure of seed traits and germination responses to different abiotic factors. We have submitted a [preprint](https://www.biorxiv.org/content/10.1101/2023.03.21.533674v1) and already submitted in for publication in a peer-reviewed journal.
+As part of my Master's Dissertation, I compiled a database of 16 seed functional traits from Brazilian rock oucrop vegetation -including ecosystems locally known as _campo rupestre_, _canga_, _campo de altitude_ and inselbergs- that has been published as a [data paper](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852) in _Ecology_. With this database, I've been working on a quantitative synthesis of seed ecology in these ecosystems, focusing on the phylogenetic structure of seed traits and germination responses to different abiotic factors. We have published a [preprint](https://www.biorxiv.org/content/10.1101/2023.03.21.533674v1) and we are currently reviweing it after the first round of peer-review in Annals of Botany.
 
 In the future, we plan to expand our database and quantitative synthesis to other rock outcrop vegetation worldwide.
 
@@ -50,6 +50,6 @@ In the future, we plan to expand our database and quantitative synthesis to othe
 </center>
 <br/>
 
-The Melastomataceae family is among the ten largest botanical families in the world, and its widely recognized for its wide morphological and functional diversity. In this project, we compiled a database of plant traits from different organs, including leaves, flowers, fruits and seeds, based on data collected for various chapters of the recent publication [_Systematics, Evolution, and Ecology of Melastomataceae_](https://link.springer.com/book/10.1007/978-3-030-99742-7). We hope to publish this database by mid-2023.
+The Melastomataceae family is among the ten largest botanical families in the world, and its widely recognized for its wide morphological and functional diversity. In this project, we compiled a database of plant traits from different organs, including leaves, flowers, fruits and seeds, based on data collected for various chapters of the recent publication [_Systematics, Evolution, and Ecology of Melastomataceae_](https://link.springer.com/book/10.1007/978-3-030-99742-7). We expect to publish the database as a data paper, and is currently under review in Ecology.
 
 <br/>

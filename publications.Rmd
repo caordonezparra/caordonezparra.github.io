@@ -14,6 +14,18 @@ Here you will find an updated list of my publications (last update, December 202
 
 > Arruda AJ, Medeiros NF, Fiorini CF, **Ordóñez-Parra CA**, Dayrell RLC, Messeder JVS, ... & Silveira FAO (2023) [Ten principles for restoring campo rupestre, a threatened tropical, megadiverse, nutrient-impoverished montane grassland](https://doi.org/10.1111/rec.13924). _Restoration Ecology_, e13924.
 
+</div>
+
+<center>
+<figure>
+  <img src="Images/Figure13.png" width="800"/>
+  <figcaption> _Figure summarizing the ten principles presented in the paper._ </figcaption>
+</figure> 
+</center>
+<br/>
+
+<div style="text-align: justify">
+
 > **Ordóñez‐Parra CA**, Dayrell RLC, Negreiros D, Andrade AC, Andrade LG, Antonini Y, ... & Silveira FAO (2022). [Rock n’ Seeds: A database of seed functional traits and germination experiments from Brazilian rock outcrop vegetation](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852). _Ecology_, 104(1), e3852.
 
 </div>
