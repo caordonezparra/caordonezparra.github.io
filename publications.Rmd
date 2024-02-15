@@ -8,9 +8,15 @@ Here you will find an updated list of my publications (last update, December 202
 
 ### Preprints
 
-> **Ordóñez-Parra CA**, Medeiros NF, Dayrell RLC, Le Stradic S, Negreiros D, Cornelissen T & Silveira FAO (2023) [Seed functional ecology in Brazilian rock outcrop vegetation: an integrative synthesis](https://www.biorxiv.org/content/10.1101/2023.03.21.533674v1). _bioRxiv_, https://doi.org/10.1101/2023.03.21.533674
+> **Ordóñez-Parra CA**, Medeiros NF, Dayrell RLC, Le Stradic S, Negreiros D, Cornelissen T & Silveira FAO (2023) [Seed functional ecology in Brazilian rock outcrop vegetation: an integrative synthesis](https://www.biorxiv.org/content/10.1101/2023.03.21.533674v2). _bioRxiv_, https://doi.org/10.1101/2023.03.21.533674
+
+### Accepted
+
+> Reginato M†, **Ordóñez-Parra CA†**, Messeder JVS, Brito VLG, Dellinger A, Kriebel R, ... & Silveira FAO (2023) MelastomaTRAITs 1.0: a database of functional traits in Melastomataceae, a large pantropical Angiosperm family. _Ecology_. († Co-first authors)
 
 ### Peer-reviewed Papers
+
+> Silveira FAO, Fuzessy L, Phartyal SS, Dayrell RLC, Vandelook F, Vázquez-Ramírez J, ... & Saatkamp A (2024) [Overcoming major barriers in seed ecology research in developing countries](https://doi.org/10.1017/S0960258523000181). _Seed Science Research_, 33(3), 172 - 181.
 
 > Arruda AJ, Medeiros NF, Fiorini CF, **Ordóñez-Parra CA**, Dayrell RLC, Messeder JVS, ... & Silveira FAO (2023) [Ten principles for restoring campo rupestre, a threatened tropical, megadiverse, nutrient-impoverished montane grassland](https://doi.org/10.1111/rec.13924). _Restoration Ecology_, e13924.
 
@@ -77,3 +83,4 @@ Here you will find an updated list of my publications (last update, December 202
 > Basto S, **Ordóñez-Parra, CA**, Roa-Fuentes, LL, Castillo-Díaz, D, Rivera-Díaz A (2018). Semillas: ¿promueven o limitan la restauración ecológica? In: Pinzón-García P, Aguilar-Garavito M, Quijano M, Sierra J, Rubio JA, eds. _Restauración Ecológica en Colombia: un compromiso de país_. Red Colombiana de Restauración Ecológica & Universidad Católica de Oriente, 357-384.
 
 </div>
+ 
