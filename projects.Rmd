@@ -18,7 +18,7 @@ Here you'll find information about my academic projects. If you are interested i
 </center>
 <br/>
 
-Seed ecology is a discipline of utmost importance for understanding the dynamics of plant populations and communities, as well as ecosystems and biomes. It is therefore of vital interest for different practical applications, such as the design and implementation of biodiversity conservation and ecological restoration projects. ECOS-s aims to provide the first synthesis of seed ecology in Colombia a systematic review and a quantitative assessment of biogeographical, phylogenetic and functional biases. Moreover, we aim to consolidate a database of seed and germination traits of the species studied to date. This project is co-lead by [Diana C. Acosta-Rojas](https://www.researchgate.net/profile/Diana-Acosta-Rojas-2) and me.
+Seed ecology is a discipline of utmost importance for understanding the dynamics of plant populations and communities, as well as ecosystems and biomes. Therefore, is of vital interest for different practical applications, such as the design and implementation of biodiversity conservation and ecological restoration projects. ECOS-s aims to provide the first synthesis of seed ecology in Colombia through a systematic review and a quantitative assessment of biogeographical, phylogenetic and functional biases. Moreover, we aim to consolidate a database of seed and germination traits of the species studied to date. This project is co-lead by [Diana C. Acosta-Rojas](https://www.researchgate.net/profile/Diana-Acosta-Rojas-2) and me.
 
 <br/>
 
