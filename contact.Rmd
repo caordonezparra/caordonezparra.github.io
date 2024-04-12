@@ -13,7 +13,7 @@ Still, you can find me in other social media. Remember, you can reach me in Span
 
 <center>
 
-[![Twitter](Images/Twitter.png)](https://twitter.com/caordonezparra)[![Google Scholar](Images/GoogleScholar.png)](https://scholar.google.com/citations?user=FeT24AgAAAAJ&hl=en) [![ResearchGate](Images/ResearchGate.png)](https://www.researchgate.net/profile/Carlos-Ordonez-Parra) [![GitHub](Images/GitHub.png)](https://github.com/caordonezparra) [![ORCID](Images/ORCID.png)](https://orcid.org/0000-0002-2319-0252)
+[![Twitter](Images/Twitter.png)](https://twitter.com/caordonezparra)[![BlueSky](Images/BlueSky.png)](https://bsky.app/profile/caordonezparra.bsky.social)[![Google Scholar](Images/GoogleScholar.png)](https://scholar.google.com/citations?user=FeT24AgAAAAJ&hl=en) [![ResearchGate](Images/ResearchGate.png)](https://www.researchgate.net/profile/Carlos-Ordonez-Parra) [![GitHub](Images/GitHub.png)](https://github.com/caordonezparra) [![ORCID](Images/ORCID.png)](https://orcid.org/0000-0002-2319-0252)
 
 </center>
 
@@ -23,4 +23,4 @@ Still, you can find me in other social media. Remember, you can reach me in Span
 ![](Images/Photo3.jpg)
 <br/>
 
-Some random holidays in Colombia. Photo by Sara Gutierrez
+My first field trip at Parque Nacional Chapada dos Veadeiros. Photo by Yuri Souza.

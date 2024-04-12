@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 <div style="text-align: justify">
-Here you will find an updated list of my publications (last update, December 2022). If you can't access any of these resources, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
+Here you will find an updated list of my publications (last update, April 2024). If you can't access any of these resources, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
 <br/><br/>
 
 ### Preprints
@@ -12,9 +12,11 @@ Here you will find an updated list of my publications (last update, December 202
 
 ### Accepted
 
-> Reginato M†, **Ordóñez-Parra CA†**, Messeder JVS, Brito VLG, Dellinger A, Kriebel R, ... & Silveira FAO (2023) MelastomaTRAITs 1.0: a database of functional traits in Melastomataceae, a large pantropical Angiosperm family. _Ecology_. († Co-first authors)
+> Reginato M†, **Ordóñez-Parra CA†**, Messeder JVS, Brito VLG, Dellinger A, Kriebel R, ... & Silveira FAO (2024) MelastomaTRAITs 1.0: a database of functional traits in Melastomataceae, a large pantropical Angiosperm family. _Ecology_. († Co-first authors)
 
 ### Peer-reviewed Papers
+
+> Medeiros NF, **Ordóñez‐Parra CA**, Buisson E & Silveira FAO (2024). [Systematic review of field research reveals critical shortfalls for restoration of tropical grassy biomes](https://doi.org/10.1111/1365-2664.14640). _Journal of Applied Ecology_.
 
 > Silveira FAO, Fuzessy L, Phartyal SS, Dayrell RLC, Vandelook F, Vázquez-Ramírez J, ... & Saatkamp A (2024) [Overcoming major barriers in seed ecology research in developing countries](https://doi.org/10.1017/S0960258523000181). _Seed Science Research_, 33(3), 172 - 181.
 
