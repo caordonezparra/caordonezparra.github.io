@@ -12,8 +12,7 @@ Here you'll find information about my academic projects. If you are interested i
 <br/>
 <center>
 <figure>
-  <img src="Images/Figure14.png" width="1200"/>
-  <figcaption> _"Frailejonal" (Espeletia-dominated vegetation) in the Parque Nacional Natural Chingaza (Cundinamarca, Colombia)._ </figcaption>
+  <img src="Images/Figure14.png" width="800"/>
 </figure> 
 </center>
 <br/>
@@ -22,18 +21,18 @@ Seed ecology is a discipline of utmost importance for understanding the dynamics
 
 <br/>
 
-### To germinate or not germinate: risk-reducing strategies meet seed germination traits (2023 - Ongoing)
+### To germinate or not germinate: risk-spreading strategies meet seed germination traits (2023 - Ongoing)
 
 <br/>
 <center>
 <figure>
-  <img src="Images/Figure12.JPG" width="1200"/>
-  <figcaption> _Savannah landscape in the Parque Nacional Chapada dos Veadeiros (Goiás, Brazil)._ </figcaption>
+  <img src="Images/Figure12.png" width="1200"/>
+  <figcaption> _Germinating seeds from emblematic families of the Brazilian Cerrado._ </figcaption>
 </figure> 
 </center>
 <br/>
 
-Seed ecologists expect that there is a strong evolutionary pressure to ensure that germination occurs only under optimal conditions for seedling establishment and survival. Yet, different studies show that species fall into some of these big categories, according to their germination behaviour: risk-takers (i.e., those germinating in unpredictable environments, where optimal conditions may be ephemeral) and the risk-avoiders (i.e., those that restrict germination to more stable environments). In my PhD, I'll delve into how different germination traits shape different risk-reducing strategies in tropical species, focusing on the species from the Brazilian Cerrado -the largest Neotropical savannah and the one with most species worldwide.
+Seed ecologists propose that strong evolutionary pressure ensures germination occurs only under conditions favourable for seedling establishment and survival. However, germination traits have been largely overlooked in the plant ecological strategies theory—a key framework that explains how plant species persist across different environments through distinct trait combinations. During my PhD, I'll explore into how various germination traits are coordinated with other plant traits known to shape plant ecological strategies. This projects combines quantitative synthesis of secondary data and laboratory and field experiments in the Brazilian Cerrado -the largest Neotropical savannah and the one with most species worldwide.
 
 <br/>
 
@@ -49,9 +48,9 @@ Seed ecologists expect that there is a strong evolutionary pressure to ensure th
 </center>
 <br/>
 
-As part of my Master's Dissertation, I compiled a database of 16 seed functional traits from Brazilian rock oucrop vegetation -including ecosystems locally known as _campo rupestre_, _canga_, _campo de altitude_ and inselbergs- that has been published as a [data paper](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852) in _Ecology_. With this database, I've been working on a quantitative synthesis of seed ecology in these ecosystems, focusing on the phylogenetic structure of seed traits and germination responses to different abiotic factors. We have published a [preprint](https://www.biorxiv.org/content/10.1101/2023.03.21.533674v1) and we are currently reviweing it after the second round of peer-review in _Annals of Botany_.
+As part of my Master's Dissertation, I compiled a database of 16 seed functional traits from Brazilian rock oucrop vegetation -including ecosystems locally known as _campo rupestre_, _canga_, _campo de altitude_ and inselbergs- that has been published as a [data paper](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852) in _Ecology_. With this database, I lead [the first quantitative synthesis](https://doi.org/10.1093/aob/mcae160) of seed ecology in these ecosystems, focusing on the phylogenetic structure of seed traits and germination responses to different abiotic factors.
 
-In the future, we plan to expand our database and quantitative synthesis to other rock outcrop vegetation worldwide.
+Being outcrops a geological formation that founds in every climate and continent, we plan to expand our database and quantitative synthesis to other rock outcrop vegetation worldwide.
 
 <br/>
 
@@ -66,7 +65,7 @@ In the future, we plan to expand our database and quantitative synthesis to othe
 </center>
 <br/>
 
-The Melastomataceae family is among the ten largest botanical families in the world, and its widely recognized for its wide morphological and functional diversity. In this project, we compiled a database of plant traits from different organs, including leaves, flowers, fruits and seeds, based on data collected for various chapters of the recent publication [_Systematics, Evolution, and Ecology of Melastomataceae_](https://link.springer.com/book/10.1007/978-3-030-99742-7). The database has been accepted as a data paper in _Ecology_ and it should be online soon.
+The Melastomataceae family is among the ten largest botanical families in the world, and its widely recognized for its wide morphological and functional diversity. In this project, we compiled a database of plant traits from different organs, including leaves, flowers, fruits and seeds, based on data collected for various chapters of the recent publication [_Systematics, Evolution, and Ecology of Melastomataceae_](https://link.springer.com/book/10.1007/978-3-030-99742-7). The database is available a [data paper](https://doi.org/10.1002/ecy.4308).
 
 <br/>
 

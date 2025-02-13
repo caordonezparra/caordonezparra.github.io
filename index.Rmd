@@ -13,7 +13,7 @@ title: "Carlos A. Ordóñez-Parra"
 <div style="text-align: justify">
 Hello, my name is [Carlos (he/him)](https://caordonezparra.github.io/about.html), and I am a PhD student in the Plant Biology Programme at Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). **Welcome to my website!** Here, you will find some information about my research and other interests.
 
-I am a seed ecologist interested in the functional role of seeds in the natural regeneration and community assembly of tropical ecosystems. For that purpose, I use various frameworks and tools, such as functional ecology, ecophysiology, phylogenetic comparative methods and ecological synthesis. I'm also interested in science decolonization, making science more inclusive and equitable, science communication and data visualization.
+I am a seed ecologist exploring the functional role of seeds in natural regeneration and community assembly in tropical ecosystems. My work integrates functional ecology, ecophysiology, phylogenetic comparative methods, and ecological synthesis to understand seed-driven ecological processes. Beyond research, I am passionate about science decolonization, inclusivity in academia, science communication, and data visualization.
 
-I am a member of the [Ecology and Environmental Solutions Lab](https://eeslufmg.weebly.com/) and the [Centre of Ecological Synthesis and Conservation](https://twitter.com/for_synthesis) at Universidade Federal de Minas Gerais. Please visit the lab's website for more information about our work.
+Currently, I am a member of the Ecology and Environmental Solutions Lab and the [Centre of Ecological Synthesis and Conservation](https://twitter.com/for_synthesis) at Universidade Federal de Minas Gerais. Please visit the [lab's website](https://eeslufmg.weebly.com/) for more information about our work.
 </div>

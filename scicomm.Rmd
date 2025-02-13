@@ -3,26 +3,40 @@ title: "Science Communication"
 ---
 
 <div style="text-align: justify">
-As a seed ecologist, I am concerned about the lack of awareness about seeds and their importance in nature and our societies. Therefore, I've written different kinds of pieces to share recent seed science studies and the researchers. Some of these pieces include graphical abstracts and infographics that pretend to summarise the papers or their key concepts in a more succinct and (hopefully) aesthetic fashion.
 
-If you have an exciting seed science story and want me to write something about it, feel free to [contact me](https://caordonezparra.github.io/contact.html) to discuss it!
+As a seed ecologist, I am deeply concerned about the limited awareness of seeds and their crucial role in both ecosystems and society. To address this, I have written various articles to highlight recent seed science studies and the researchers behind them. I also create graphical abstracts and infographics that summarise key findings in a succinct and visually engaging way. If you have an interesting seed science story and would like me to write about it, feel free to [reach out](https://caordonezparra.github.io/contact.html)!
 
 <br/>
 
-### BotanyOne articles
-[_BotanyOne_](https://botany.one/) is a weblog by the Annals of Botany Company that produces different pieces to share exciting plant science research. I've contributed with guest posts for them, and since April of 2023 I've been serving as a [Scientific Editor](https://botany.one/2023/04/introducing-carlos-andres-ordonez-parra-our-new-science-editor/). Since that moment, I've been able to work with guest authors from different countries and expertises, helping them to create engaging narratives about exciting plant science stories. Below, you'll find some of the papers I've written so far.
+### International Society for Seed Science and Seed Science Research
 
-> [Turning the Key in Wakehurst’s Vault to Combat Climate Change](https://botany.one/2024/01/turning-the-key-in-wakehursts-vault-to-combat-climate-change/), January 15, 2024. 
+Since 2024, I have been appointed as Communications Officer of the [International Society for Seed Science (ISSS)](https://seedscisoc.org) —a professional and academic society committed to fostering and promoting research, education and communication in the scientific understanding of seeds. In this role, I have been in charge of managing the social media accounts —[LinkedIn](https://www.linkedin.com/company/international-society-for-seed-science/) and [Bluesky](https://bsky.app/profile/intlsocseedsci.bsky.social)— of the ISSS and its official academic journal, [_Seed Science Research_](https://www.cambridge.org/core/journals/seed-science-research).
 
-> [How to Live on a Hot, Dry Rock: Different Solutions to the Same Problem](https://botany.one/2023/11/how-to-live-on-a-hot-dry-rock-different-solutions-to-the-same-problem/), November 21, 2023 
+In this position, I've conducted interviews with Keynote Speakers of previous ISSS-sponsored conferences and members of the Editorial Board. In 2024, the ISSS also celebrated its 25th Anniversary which we celebrated with a [series of posts](https://www.linkedin.com/pulse/celebrating-isss25jubilee-members-posts-bj5de/?trackingId=MnUuDnLt0Cnh66p3lvJnEQ%3D%3D) showcasing members from all over the world, including notable members that lead key moments of our society.
 
-> [Unlocking the Tiny Secrets to Grow the World’s Largest Flowers](https://botany.one/2023/10/unlocking-the-tiny-secrets-to-grow-the-worlds-largest-flowers/), October 25, 2023.
+<br/>
 
-> [Traitor: Unleashing the Power of Automation for Studying Seed Traits](https://botany.one/2023/06/traitor-unleashing-the-power-of-automation-for-studying-seed-traits/), June 7, 2023.
+### Botany One
 
-> [How Do Seeds Save for a Rainy Day?](https://botany.one/2022/05/how-do-seeds-save-for-a-rainy-day/), May 30th, 2022.
+[_BotanyOne_](https://botany.one/) is the official weblog of the [Annals of Botany Company](https://annalsofbotanycompany.co.uk/home-welcome) that aims that that fascinating discoveries about plants can reach and inspire the widest possible audience —from classroom teachers to citizen scientists. I initially contributed as a guest writer and, since April 2023, have served as a [Scientific Editor](https://botany.one/2023/04/introducing-carlos-andres-ordonez-parra-our-new-science-editor/). In this role, I collaborate with researchers from diverse backgrounds, helping them craft compelling narratives about plant science discoveries. Moreover, I conduct interviews with plant scientists from all over the world to show how diverse botanists and the stories behind them are. Below, you’ll find a selection of my favourite articles, and you might find the complete list [here](https://botany.one/author/carlos-a-ordonez-parra/).
 
-> [Plants Don’t Want Their Children to Starve](https://botany.one/2022/03/plants-dont-want-their-children-to-starve/), March 24th, 2022.
+> [The Challenges Faced by Lichens in Changing Valdivian Forests](https://botany.one/2024/12/the-challenges-faced-by-lichens-in-changing-valdivian-forests/), 
+
+> [Rosy Isaias: “Plant Biology is fascinating and has mysteries and challenges yet to be discovered”](https://botany.one/2024/07/rosy-isaias-plant-biology-is-fascinating-and-has-mysteries-and-challenges-yet-to-be-discovered/)
+
+> [Charlotte Taylor: “Looking at Plants is Never Boring and Endlessly Fascinating”](https://botany.one/2024/05/charlotte-taylor-looking-at-plants-is-never-boring-and-endlessly-fascinating/)
+
+> [Hervé Sauquet: Never Looking at Flowers the Same Way](https://botany.one/2024/05/herve-sauquet-never-looking-at-flowers-the-same-way/)
+
+> [How to Live on a Hot, Dry Rock: Different Solutions to the Same Problem](https://botany.one/2023/11/how-to-live-on-a-hot-dry-rock-different-solutions-to-the-same-problem/)
+
+> [Unlocking the Tiny Secrets to Grow the World’s Largest Flowers](https://botany.one/2023/10/unlocking-the-tiny-secrets-to-grow-the-worlds-largest-flowers/)
+
+> [Traitor: Unleashing the Power of Automation for Studying Seed Traits](https://botany.one/2023/06/traitor-unleashing-the-power-of-automation-for-studying-seed-traits/)
+
+> [How Do Seeds Save for a Rainy Day?](https://botany.one/2022/05/how-do-seeds-save-for-a-rainy-day/)
+
+> [Plants Don’t Want Their Children to Starve](https://botany.one/2022/03/plants-dont-want-their-children-to-starve/)
 
 </div>
 
@@ -49,18 +63,12 @@ If you have an exciting seed science story and want me to write something about 
 <br/>
 
 <div style="text-align: justify">
-### Plant Science Research Weekly summaries
 
-[Plant Science Research Weekly](https://plantae.org/research/wwrtw/) is the newsletter by Plantae.org -the online community led by the American Society of Plant Biologists- that looks to highlight recent and exciting plant biology research. Since I was a Plantae Fellow (2020), I've written more than 90 summaries about different seed science research, from molecular biology to ecological synthesis. Here you will find a selection of summaries dealling with different topics. You might find the complete list [here](https://plantae.org/author/carlosordonezparra/).
-
-> I edited the [edition](https://plantae.org/plant-science-research-weekly-july-31/) of July 30th, 2020, which included seven papers dealing with seed evolution.
-
-<center>
-<figure>
-  <img src="Images/Figure6.png" width="800"/>
-</figure> 
-</center>
 <br/>
+
+### Plant Science Research Weekly
+
+As part of the [Plantae's Fellow Class of 2020](https://plantae.org/announcing-our-2020-class-of-plantae-fellows/) —a program hosted by Plantae.org and the American Society of Plant Biologists— I contributed with 100 research summaries for its newsletter [Plant Science Research Weekly](https://plantae.org/research/wwrtw/). These summaries coverered a myriad of seed science topics from molecular biology to ecological synthesis. Below is a selection of summaries on various topics, and you can find the full list [here](https://plantae.org/author/carlosordonezparra/). I also edited the July 30th, 2020 edition, which featured seven papers on seed evolution.
 
 > [Shielding the oil reserves: the scutellum as a source of chemical defenses](https://plantae.org/shielding-the-oil-reserves-the-scutellum-as-a-source-of-chemical-defenses-plant-physiol/). February 18th, 2022.
 
@@ -105,15 +113,13 @@ If you have an exciting seed science story and want me to write something about 
 
 > Ordóñez-Parra CA (2018). Dilvulgación Científica [Radio Interview] Available at: https://bit.ly/38WrQs
 
-> Ordóñez-Parra CA (2018). La ciencia debería importarnos a todos en
-Colombia [Open Editorial] Available at: https://bit.ly/35GpITe
+> Ordóñez-Parra CA (2018). La ciencia debería importarnos a todos en Colombia [Open Editorial] Available at: https://bit.ly/35GpITe
 
 <br/>
 
 ### _Printed_
 
-> **Ordóñez-Parra CA** & Mancera-Cortés J (2017). Una historia verde que se
-cuenta y se escribe en el campus de la Javeriana. Revista Javeriana, 834: 64-67.
+> **Ordóñez-Parra CA** & Mancera-Cortés J (2017). Una historia verde que se cuenta y se escribe en el campus de la Javeriana. Revista Javeriana, 834: 64-67.
 
 > **Ordóñez-Parra CA** & Basto S (2016). El reto de identificar la especie a la cual pertenece una semilla. Revista Javeriana, 830: 60-64.
 

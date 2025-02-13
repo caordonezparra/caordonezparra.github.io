@@ -5,15 +5,15 @@ title: "About Me"
 <div class = "row">
 
 <div style="text-align: justify" class = "col-md-6">
-I'm a Colombian seed ecologist, and I hold a BSc. in Ecology (2018) and Biology (2019) from Pontificia Universidad Javeriana (Bogotá D.C., Colombia) and an MSc. in Plant Biology (2022) from Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). Also, I'm a native Spanish speaker and proficient in English and Portuguese.
+I am a Colombian seed ecologist with a BSc in Ecology (2018) and Biology (2019) from Pontificia Universidad Javeriana (Bogotá, Colombia) and an MSc in Plant Biology (2022) from Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). I am a native Spanish speaker, fluent in English and Portuguese.
 
-I became interested in seed ecology when I entered at Dr [Sofía Basto's](https://www.researchgate.net/profile/Sofia-Basto) lab. While collaborating with her, I worked on different topics, including soil seed banks and germination studies. In fact, Dr. Basto was the supervisor for my Undergraduate research project, where I worked on the temporal dynamic of the seed rain in a tropical dry forest of the Magdalena River Valley (Colombia).
+My interest in seed ecology began when I joined [Dr Sofía Basto’s](https://www.researchgate.net/profile/Sofia-Basto) lab, where I worked on soil seed banks and germination studies. For instance, it was under her supervision, that I carried my Undergraduate research project focused on the temporal dynamics of seed rain in a tropical dry forest of the Magdalena River Valley, Colombia.
 
-After finishing my Undergrad studies, I moved to Belo Horizonte (Brazil) to join the Centre of Ecological Synthesis and Conservation at Universidade Federal de Minas Gerais in order to do my MSc with Dr [Fernando A. O. Silveira](https://www.researchgate.net/profile/Fernando-Silveira-6). Since my arrival, I've been working more deeply in seed germination ecology and learned about quantitative synthesis and comparative phylogenetic methods. Moreover, I've worked around the awareness and the biases that exist towards open ecosystems –such as savannas, grasslands and shrublands.
+After completing my undergraduate studies, I moved to Brazil to pursue an MSc at the Centre of Ecological Synthesis and Conservation, UFMG, under [Dr Fernando A. O. Silveira]((https://www.researchgate.net/profile/Fernando-Silveira-6)). Since then, I have deepened my focus on seed germination ecology while gaining expertise in quantitative synthesis and phylogenetic comparative methods.
 
-Besides these topics, I'm interested in science decolonization and how we can make science and its practices more inclusive and equitable. I also have adventured in [science communication](https://caordonezparra.github.io/scicomm.html), having prepared different pieces to engage people with seed science, and I'm an enthusiast of data visualization.
+My ultimate goal as a researcher is to build knowdlege around the seeds of tropical ecosystems, hoping that this information can be translated into the conservation, ecological restoration and conservation of tropical ecosystems.Besides these topics, I'm interested in science decolonization and how we can make science and its practices more inclusive and equitable. I also have adventured in [science communication](https://caordonezparra.github.io/scicomm.html), having prepared different pieces to engage people with seed science, and I'm an enthusiast of data visualization.
 
-You might find a complete version of my curriculum [here](https://docs.google.com/document/d/1e3m_lL4mjBq1WM7n8xsvNKQ1wl5LIVFRD_BJdz4K23o/edit?usp=sharing), and if you are willing to discuss or collaborate on any of these topics, don't hesitate to [contact](https://caordonezparra.github.io/contact.html) me!
+You might find a complete version of my curriculum [here](https://caordonezparra.github.io/cv.html), and if you are willing to discuss or collaborate on any of these topics, don't hesitate to [contact](https://caordonezparra.github.io/contact.html) me!
 </div>
 
 <div style="text-align: center" class = "col-md-6">
@@ -24,5 +24,5 @@ The face of someone who just met the _campo rupestre_. Photo by Jade Albanaz.
 
 ![](Images/Photo2.jpg)
 
-Pretending to be a photographer. Photo by Diana Acosta-Rojas
+Fieldwork in the Parque Nacional Chapada dos Veaderios (Goiás, Brazil). Photo by Yuri Souza.
 </div>

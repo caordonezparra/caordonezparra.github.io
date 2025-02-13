@@ -3,20 +3,28 @@ title: "Publications"
 ---
 
 <div style="text-align: justify">
-Here you will find an updated list of my publications (last update, April 2024). If you can't access any of these resources, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
+Here you will find an updated list of my publications (last update, February 2025). If you can't access any of these resources, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
 <br/><br/>
-
-### Preprints
-
-> **Ordóñez-Parra CA**, Medeiros NF, Dayrell RLC, Le Stradic S, Negreiros D, Cornelissen T & Silveira FAO (2023) [Seed functional ecology in Brazilian rock outcrop vegetation: an integrative synthesis](https://www.biorxiv.org/content/10.1101/2023.03.21.533674v2). _bioRxiv_, https://doi.org/10.1101/2023.03.21.533674
 
 ### Accepted
 
-> Reginato M†, **Ordóñez-Parra CA†**, Messeder JVS, Brito VLG, Dellinger A, Kriebel R, ... & Silveira FAO (2024) MelastomaTRAITs 1.0: a database of functional traits in Melastomataceae, a large pantropical Angiosperm family. _Ecology_. († Co-first authors)
+> Faria FS, **Ordóñez-Parra CA**, Granata L, Resende LV & Silveira FAO (2024) Low-cost technology supports propagation of endemic species from a global biodiversity hotspot. _Restoration Ecology_.
 
 ### Peer-reviewed Papers
 
-> Medeiros NF, **Ordóñez‐Parra CA**, Buisson E & Silveira FAO (2024). [Systematic review of field research reveals critical shortfalls for restoration of tropical grassy biomes](https://doi.org/10.1111/1365-2664.14640). _Journal of Applied Ecology_.
+> **Ordóñez-Parra CA**, Medeiros NF, Dayrell RLC, Le Stradic S, Negreiros D, Cornelissen T & Silveira FAO (2024) [Seed functional ecology in Brazilian rock outcrop vegetation: an integrative synthesis](https://doi.org/10.1093/aob/mcae160). _Annals of Botany_, mcae160.
+
+<center>
+<figure>
+  <img src="Images/Figure15.png" width="800"/>
+  <figcaption> _Seed trait differences among growth forms, species geographic distribution and microhabitat_ </figcaption>
+</figure> 
+</center>
+<br/>
+
+> Reginato M†, **Ordóñez-Parra CA†**, Messeder JVS, Brito VLG, Dellinger A, Kriebel R, ... & Silveira FAO (2024) [MelastomaTRAITs 1.0: a database of functional traits in Melastomataceae, a large pantropical Angiosperm family](https://doi.org/10.1002/ecy.4308). _Ecology_, 105(6), e4308. († Co-first authors)
+
+> Medeiros NF, **Ordóñez‐Parra CA**, Buisson E & Silveira FAO (2024). [Systematic review of field research reveals critical shortfalls for restoration of tropical grassy biomes](https://doi.org/10.1111/1365-2664.14640). _Journal of Applied Ecology_, 61(6), 1174-1186.
 
 > Silveira FAO, Fuzessy L, Phartyal SS, Dayrell RLC, Vandelook F, Vázquez-Ramírez J, ... & Saatkamp A (2024) [Overcoming major barriers in seed ecology research in developing countries](https://doi.org/10.1017/S0960258523000181). _Seed Science Research_, 33(3), 172 - 181.
 
@@ -27,7 +35,7 @@ Here you will find an updated list of my publications (last update, April 2024).
 <center>
 <figure>
   <img src="Images/Figure13.png" width="800"/>
-  <figcaption> _Figure summarizing the ten principles presented in the paper._ </figcaption>
+  <figcaption> _Summary of the ten principles presented in the paper._ </figcaption>
 </figure> 
 </center>
 <br/>
@@ -41,7 +49,7 @@ Here you will find an updated list of my publications (last update, April 2024).
 <center>
 <figure>
   <img src="Images/Figure1.png" width="800"/>
-  <figcaption> _Figure 2 in the datapaper metadata showing the ten families with most species in the dataset._ </figcaption>
+  <figcaption> _Treemap showing the ten families with most species in the dataset._ </figcaption>
 </figure> 
 </center>
 <br/>
@@ -61,6 +69,10 @@ Here you will find an updated list of my publications (last update, April 2024).
 <br/>
 
 ### Book Chapters
+
+> Silveira FAO, **Ordóñez-Parra CA** & Dayrell RLC (2024). Ecologia funcional da germinação de sementes. In: Borghetti F, ed. _Germinação: princípios, processos e aplicações_. Rede de Sementes do Cerrado.
+
+> Fidelis, AT, **Ordóñez-Parra CA**, Silveira FAO, Dayrell RLC, & López-Mársico L (2024). Germinação e recrutamento em ecossistemas campestres: campos rupestres, campos de altitude e Pampa. In: Borghetti F, ed. _Germinação: princípios, processos e aplicações_. Rede de Sementes do Cerrado.
 
 > **Ordóñez-Parra CA**, Messeder JVS, Mancipe-Murillo C, Calderón-Hernández M, & Silveira FAO (2022). [Seed Germination Ecology in Neotropical Melastomataceae: Past, Present, and Future](https://link.springer.com/chapter/10.1007/978-3-030-99742-7_32). In: Goldenberg R, Michelangeli FA, Almeda F, eds. _Systematics, Evolution, and Ecology of Melastomataceae_. Springer, Cham., 707-733.
 

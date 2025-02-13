@@ -13,6 +13,8 @@ navbar:
       href: publications.html
     - text: "Science Communication"
       href: scicomm.html
+    - text: "CV"
+      href: cv.html
     - text: "Contact"
       href: contact.html
 output:
