@@ -19,5 +19,5 @@ navbar:
       href: contact.html
 output:
   html_document:
-    theme: sandstone
+    theme: journal
     css: style.css

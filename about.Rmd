@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 ---
-
+<br/>
 <div class = "row">
 
 <div style="text-align: justify" class = "col-md-6">

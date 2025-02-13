@@ -1,6 +1,7 @@
 ---
 title: "CV"
 ---
+<br/>
 
 <div style="text-align: justify">
 As a seed ecologist, I am concerned about the lack of awareness about seeds and their importance in nature and our societies. Therefore, I've written different kinds of pieces to share recent seed science studies and the researchers. Some of these pieces include graphical abstracts and infographics that pretend to summarise the papers or their key concepts in a more succinct and (hopefully) aesthetic fashion.
