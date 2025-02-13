@@ -5,7 +5,7 @@ title: "Carlos A. Ordóñez-Parra"
 <br/>
 <center>
 <figure>
-  <img src="Images/Figure11.JPG" width="1200"/>
+  <img src="Images/Figure11.jpg" width="1200"/>
 </figure> 
 </center>
 <br/>
