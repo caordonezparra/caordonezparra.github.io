@@ -1,71 +1,105 @@
 ---
 title: "Research Projects"
 ---
-<div style="text-align: justify">
 
-<br/>
-Here you'll find information about my academic projects. If you are interested in collaborating or discussing some ideas, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com)!
-<br/><br/>
+<style>
+.project-text {
+  text-align: left;
+  line-height: 1.6;
+  color: #444444;
+}
 
-### ECOS-s: A synthesis of Seed Ecology in Colombia (2024 - Ongoing)
+.project-text p {
+  margin-bottom: 1.5em;
+}
 
-<br/>
+.project-figure {
+  width: 110%;
+  margin-left: -5%;
+  margin-right: -5%;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.project-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.project-figure figcaption {
+  font-size: 0.75em;
+  line-height: 1.35;
+  color: #777777;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.project-figure.narrow {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 900px) {
+  .project-figure {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .project-figure.narrow {
+    width: 125%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+    margin-bottom: 36px;
+  }
+}
+</style>
+
+<div class="project-text">
+
+Here you will find information about my academic projects. If you are interested in collaborating or discussing ideas, feel free to [email me](mailto:carlos.ordonez.parra@gmail.com)!
+
+### To germinate or not to germinate: risk-reducing strategies meet seed germination traits (2023–ongoing)
+
 <center>
-<figure>
-  <img src="Images/Figure14.png" width="800"/>
-</figure> 
+<figure class="project-figure">
+  <img src="Images/Figure12.png" alt="Germinating seeds from emblematic families of the Brazilian Cerrado.">
+  <figcaption>
+    Germinating seeds from emblematic families of the Brazilian Cerrado.
+  </figcaption>
+</figure>
 </center>
-<br/>
 
-Seed ecology is a discipline of utmost importance for understanding the dynamics of plant populations and communities, as well as ecosystems and biomes. Therefore, is of vital interest for different practical applications, such as the design and implementation of biodiversity conservation and ecological restoration projects. ECOS-s aims to provide the first synthesis of seed ecology in Colombia through a systematic review and a quantitative assessment of biogeographical, phylogenetic and functional biases. Moreover, we aim to consolidate a database of seed and germination traits of the species studied to date. This project is co-lead by [Diana C. Acosta-Rojas](https://www.researchgate.net/profile/Diana-Acosta-Rojas-2) and me.
+Seed ecologists propose that strong evolutionary pressures shape germination so that it occurs under conditions favourable for seedling establishment and survival. However, germination traits have been largely overlooked in plant ecological strategy theory, a key framework for understanding how plant species persist across environments through different trait combinations. During my PhD, I am exploring how germination traits are coordinated with other plant traits known to shape ecological strategies. This project combines quantitative synthesis of secondary data with laboratory and field experiments in the Brazilian Cerrado — the largest Neotropical savanna and one of the most species-rich savannas in the world.
 
-<br/>
+### Rock n' Seeds: an ecological synthesis of seed germination in rock outcrop vegetation (2020–2024)
 
-### To germinate or not germinate: risk-spreading strategies meet seed germination traits (2023 - Ongoing)
-
-<br/>
 <center>
-<figure>
-  <img src="Images/Figure12.png" width="1200"/>
-  <figcaption> _Germinating seeds from emblematic families of the Brazilian Cerrado._ </figcaption>
-</figure> 
+<figure class="project-figure">
+  <img src="Images/Figure9.JPG" alt="Quartzitic outcrops at Serra do Cipó, Minas Gerais, Brazil.">
+  <figcaption>
+    Quartzitic outcrops at Serra do Cipó, Minas Gerais, Brazil.
+  </figcaption>
+</figure>
 </center>
-<br/>
 
-Seed ecologists propose that strong evolutionary pressure ensures germination occurs only under conditions favourable for seedling establishment and survival. However, germination traits have been largely overlooked in the plant ecological strategies theory—a key framework that explains how plant species persist across different environments through distinct trait combinations. During my PhD, I'll explore into how various germination traits are coordinated with other plant traits known to shape plant ecological strategies. This projects combines quantitative synthesis of secondary data and laboratory and field experiments in the Brazilian Cerrado -the largest Neotropical savannah and the one with most species worldwide.
+As part of my master’s dissertation, I compiled a database of 16 seed functional traits from Brazilian rock outcrop vegetation, including ecosystems locally known as <em>campo rupestre</em>, <em>canga</em>, <em>campo de altitude</em> and inselbergs. This database was published as a [data paper](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852) in <em>Ecology</em>. Using this database, I led [the first quantitative synthesis](https://doi.org/10.1093/aob/mcae160) of seed ecology in these ecosystems, focusing on the phylogenetic structure of seed traits and germination responses to different abiotic factors.
 
-<br/>
+Because rock outcrops are geological formations found across climates and continents, we plan to expand our database and quantitative synthesis to rock outcrop vegetation worldwide.
 
+### MelastomaTraits: a trait database for the Melastomataceae family, a megadiverse tropical clade (2020–2024)
 
-### Rock n' Seeds: an ecological synthesis of seed germination in rock outcrop vegetation (2020 - Ongoing)
+<figure class="project-figure">
+  <img src="Images/Figure10.JPG" alt="Meriania longifolia at Pontificia Universidad Javeriana">
+  <figcaption>
+    <em>Meriania longifolia</em> (Melastomataceae) at the campus of Pontificia Universidad Javeriana, Bogotá D.C., Colombia.
+  </figcaption>
+</figure>
 
-<br/>
-<center>
-<figure>
-  <img src="Images/Figure9.JPG" width="1200"/>
-  <figcaption> _Quartzitic outcrops at Serra do Cipó (Minas Gerais, Brazil)._ </figcaption>
-</figure> 
-</center>
-<br/>
+Melastomataceae is among the ten largest botanical families in the world, and it is widely recognised for its remarkable morphological and functional diversity. In this project, we compiled a database of plant traits from different organs, including leaves, flowers, fruits and seeds, based on data collected for several chapters of the book [_Systematics, Evolution, and Ecology of Melastomataceae_](https://link.springer.com/book/10.1007/978-3-030-99742-7). The database is available as a [data paper](https://doi.org/10.1002/ecy.4308).
 
-As part of my Master's Dissertation, I compiled a database of 16 seed functional traits from Brazilian rock oucrop vegetation -including ecosystems locally known as _campo rupestre_, _canga_, _campo de altitude_ and inselbergs- that has been published as a [data paper](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852) in _Ecology_. With this database, I lead [the first quantitative synthesis](https://doi.org/10.1093/aob/mcae160) of seed ecology in these ecosystems, focusing on the phylogenetic structure of seed traits and germination responses to different abiotic factors.
-
-Being outcrops a geological formation that founds in every climate and continent, we plan to expand our database and quantitative synthesis to other rock outcrop vegetation worldwide.
-
-<br/>
-
-### MelastomaTraits: a trait database for the Melastomataceae family, a megadiverse tropical clade (2020 - 2024)
-
-<br/>
-<center>
-<figure>
-  <img src="Images/Figure10.JPG" width="1200"/>
-  <figcaption> _Meriania longifolia at the campus of Pontificia Universidad Javeriana (Bogotá D.C., Colombia)._ </figcaption>
-</figure> 
-</center>
-<br/>
-
-The Melastomataceae family is among the ten largest botanical families in the world, and its widely recognized for its wide morphological and functional diversity. In this project, we compiled a database of plant traits from different organs, including leaves, flowers, fruits and seeds, based on data collected for various chapters of the recent publication [_Systematics, Evolution, and Ecology of Melastomataceae_](https://link.springer.com/book/10.1007/978-3-030-99742-7). The database is available a [data paper](https://doi.org/10.1002/ecy.4308).
-
-<br/>
-
+</div>

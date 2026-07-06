@@ -2,23 +2,86 @@
 title: "Publications"
 ---
 
-<div style="text-align: justify">
-Here you will find an updated list of my publications (last update, February 2025). If you can't access any of these resources, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
-<br/><br/>
+<style>
+.publications-text {
+  text-align: left;
+  line-height: 1.6;
+  color: #444444;
+}
+
+.publications-text p {
+  margin-bottom: 1.1em;
+}
+
+.publication-figure {
+  width: 110%;
+  margin-left: -5%;
+  margin-right: -5%;
+  margin-top: 24px;
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.publication-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.publication-figure figcaption {
+  font-size: 0.75em;
+  line-height: 1.35;
+  color: #777777;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.publication-figure.narrow {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 900px) {
+  .publication-figure {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .publication-figure.narrow {
+    width: 100%;
+  }
+}
+</style>
+
+<div class="publications-text">
+Here you will find an updated list of my publications. If you have problems accessing any of these, feel free to [e-mail me](mailto:carlos.ordonez.parra@gmail.com) or request a PDF through my [ResearchGate profile](https://www.researchgate.net/profile/Carlos-Ordonez-Parra)!
 
 ### Peer-reviewed Papers
+
+> Amaral-Garcia L, **Ordóñez-Parra CA**, Agostini K, Barbosa-Dias LG, Fidelis A, Maruyama PK, Medeiros NF, Senna N, Rossatto DR, Melo PHA *et al.* (2026) [Cerrado plant traits (CPT): a database of functional traits across vegetation types in a global biodiversity hotspot](https://doi.org/10.1093/aob/mcag176). *Annals of Botany*, mcag176.
+
+> Dolabela BM, Costa FV, Castagneyrol B, Lourenço GM, **Ordóñez-Parra CA**, Valadão-Mendes L & Cornelissen TG (2026) [The impact of urbanization on the functions supported by arthropods: a global meta-analysis](https://doi.org/10.1111/jbi.70278). *Journal of Biogeography*, 53, e70278.
+
+> Oliveira DN, **Ordóñez-Parra CA**, Chen S-C, TSTD Consortium & Silveira FAO (2026) [Tropical Seed Trait Database: advancing seed functional ecology in the world's most biodiverse region](https://doi.org/10.1111/nph.71268). *New Phytologist*, 251, 945–958.
+
+> Nascimento B, Silva VHD, **Ordóñez-Parra CA**, Bosenbecker C, Bhakti T, Gomes IN, Valadão-Mendes LB, Boratto LC, Anselmo PA, de Amorim MD, Cornelissen TG, Pena JC & Maruyama PK (2025) [Pollination and pest control in urban agriculture: a systematic review of the species associated with beneficial services](https://doi.org/10.1007/s11252-025-01817-0). *Urban Ecosystems*, 28, 222.
+
+> Ávila AA, Pereira CC, de Oliveira CP, **Ordóñez-Parra CA**, Martins SG & de Castro GC (2025) [Forgotten guardians of biodiversity in the Atlantic Forest: seed rain confirms the ecological role of hedgerows in landscape connectivity](https://doi.org/10.5091/plecevo.160271). *Plant Ecology and Evolution*, 158, 350–357.
+
+> Gomes IN, Silva VHD, Gonçalves RB, **Ordóñez-Parra CA**, Procópio-Santos CP, Queroz SO, Castro DMP, Pena JC & Maruyama PK (2025) [Exploring the determinants of bee diversity in tropical urban areas and their implications for conservation](https://doi.org/10.1016/j.landurbplan.2025.105440). *Landscape and Urban Planning*, 263, 105440.
 
 > Faria FS, **Ordóñez-Parra CA**, Granata L, Resende LV & Silveira FAO (2024) [Low-cost technology supports propagation of endemic species from a global biodiversity hotspot](https://doi.org/10.1111/rec.70005). _Restoration Ecology_, e70005.
 
 > **Ordóñez-Parra CA**, Medeiros NF, Dayrell RLC, Le Stradic S, Negreiros D, Cornelissen T & Silveira FAO (2024) [Seed functional ecology in Brazilian rock outcrop vegetation: an integrative synthesis](https://doi.org/10.1093/aob/mcae160). _Annals of Botany_, mcae160.
 
-<center>
-<figure>
-  <img src="Images/Figure15.png" width="800"/>
-  <figcaption> _Seed trait differences among growth forms, species geographic distribution and microhabitat_ </figcaption>
-</figure> 
-</center>
-<br/>
+<figure class="publication-figure narrow">
+  <img src="Images/Figure15.png" alt="Seed trait differences among growth forms, species geographic distribution and microhabitat">
+  <figcaption>
+    Seed trait differences among growth forms, species geographic distribution and microhabitat.
+  </figcaption>
+</figure>
 
 > Reginato M†, **Ordóñez-Parra CA†**, Messeder JVS, Brito VLG, Dellinger A, Kriebel R, ... & Silveira FAO (2024) [MelastomaTRAITs 1.0: a database of functional traits in Melastomataceae, a large pantropical Angiosperm family](https://doi.org/10.1002/ecy.4308). _Ecology_, 105(6), e4308. († Co-first authors)
 
@@ -30,15 +93,14 @@ Here you will find an updated list of my publications (last update, February 202
 
 </div>
 
-<center>
-<figure>
-  <img src="Images/Figure13.png" width="800"/>
-  <figcaption> _Summary of the ten principles presented in the paper._ </figcaption>
-</figure> 
-</center>
-<br/>
+<figure class="publication-figure narrow">
+  <img src="Images/Figure13.png" alt="Summary of the ten restoration principles presented in the paper">
+  <figcaption>
+    Summary of the ten principles presented in the paper.
+  </figcaption>
+</figure>
 
-<div style="text-align: justify">
+<div class="publications-text">
 
 > **Ordóñez‐Parra CA**, Dayrell RLC, Negreiros D, Andrade AC, Andrade LG, Antonini Y, ... & Silveira FAO (2022). [Rock n’ Seeds: A database of seed functional traits and germination experiments from Brazilian rock outcrop vegetation](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3852). _Ecology_, 104(1), e3852.
 

@@ -1,28 +1,109 @@
 ---
 title: "About Me"
 ---
+
+<style>
+.about-page {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 70px;
+  align-items: start;
+  margin-top: 35px;
+}
+
+.about-image {
+  text-align: center;
+}
+
+.about-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.about-image figcaption {
+  font-size: 0.75em;
+  line-height: 1.35;
+  color: #777777;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.about-text {
+  text-align: left;
+  line-height: 1.6;
+  color: #444444;
+}
+
+.about-text p {
+  margin-bottom: 1.1em;
+}
+
+@media (max-width: 900px) {
+  .about-page {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+}
+</style>
+
 <br/>
-<div class = "row">
 
-<div style="text-align: justify" class = "col-md-6">
-I am a Colombian seed ecologist with a BSc in Ecology (2018) and Biology (2019) from Pontificia Universidad Javeriana (Bogotá, Colombia) and an MSc in Plant Biology (2022) from Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). I am a native Spanish speaker, fluent in English and Portuguese.
+<div class="about-page">
 
-My interest in seed ecology began when I joined [Dr Sofía Basto’s](https://www.researchgate.net/profile/Sofia-Basto) lab, where I worked on soil seed banks and germination studies. For instance, it was under her supervision, that I carried my Undergraduate research project focused on the temporal dynamics of seed rain in a tropical dry forest of the Magdalena River Valley, Colombia.
+<div class="about-image">
 
-After completing my undergraduate studies, I moved to Brazil to pursue an MSc at the Centre of Ecological Synthesis and Conservation, UFMG, under [Dr Fernando A. O. Silveira]((https://www.researchgate.net/profile/Fernando-Silveira-6)). Since then, I have deepened my focus on seed germination ecology while gaining expertise in quantitative synthesis and phylogenetic comparative methods.
+<figure>
+<img src="Images/Cover_Picture.jpg" alt="Carlos during fieldwork in Chapada dos Veadeiros">
+<figcaption>
+Carlos in a _semprevivas_ field in Chapada dos Veadeiros National Park, Goiás, Brazil. Photo by Victor H. D. Silva.
+</figcaption>
+</figure>
 
-My ultimate goal as a researcher is to build knowdlege around the seeds of tropical ecosystems, hoping that this information can be translated into the conservation, ecological restoration and conservation of tropical ecosystems.Besides these topics, I'm interested in science decolonization and how we can make science and its practices more inclusive and equitable. I also have adventured in [science communication](https://caordonezparra.github.io/scicomm.html), having prepared different pieces to engage people with seed science, and I'm an enthusiast of data visualization.
+<br/>
+<br/>
 
-If you are willing to discuss or collaborate on any of these topics, don't hesitate to [contact](https://caordonezparra.github.io/contact.html) me!
+<figure class="secondary-photo">
+<img src="Images/Vellozia_seeds.jpg" alt="Carlos holding fruits and seeds of _Vellozia tubiflora_">
+<figcaption>
+Fruit and seeds of _Vellozia tubiflora_ (Velloziaceae), a widespread species in the Brazilian savannahs. Photo by Victor H. D. Silva.
+</figcaption>
+</figure>
+
+<br/>
+<br/>
+
+<figure class="secondary-photo">
+<img src="Images/Photo2.jpg" alt="Carlos during fieldwork in Chapada dos Veadeiros">
+<figcaption>
+Carlos during his first fieldwork in Chapada dos Veadeiros National Park. Photo by Yuri Souza.
+</figcaption>
+</figure>
+
 </div>
 
-<div style="text-align: center" class = "col-md-6">
-![](Images/Photo1.jpg)
-<br/>
+<div class="about-text">
 
-The face of someone who just met the _campo rupestre_. Photo by Jade Albanaz.
+<p>
+I am a Colombian seed scientist with a BSc in Ecology (2018) and a BSc in Biology (2019) from Pontificia Universidad Javeriana, in Bogotá, Colombia, and an MSc in Plant Biology (2022) from Universidade Federal de Minas Gerais, in Belo Horizonte, Brazil.
+</p>
 
-![](Images/Photo2.jpg)
+<p>
+My interest in seed ecology began when I joined <a href="https://www.researchgate.net/profile/Sofia-Basto">Dr Sofía Basto’s</a> lab, where I worked on soil seed banks and germination studies. Under her supervision, I carried out my undergraduate research project on the temporal dynamics of seed rain in a tropical dry forest in the Magdalena River Valley, Colombia.
+</p>
 
-Fieldwork in the Parque Nacional Chapada dos Veaderios (Goiás, Brazil). Photo by Yuri Souza.
+<p>
+After completing my undergraduate studies, I moved to Brazil to pursue an MSc at the Centre of Ecological Synthesis and Conservation, UFMG, under the supervision of <a href="https://www.researchgate.net/profile/Fernando-Silveira-6">Dr Fernando A. O. Silveira</a>. Since then, I have deepened my focus on seed germination ecology while gaining expertise in quantitative synthesis and phylogenetic comparative methods. For my PhD, also at UFMG, I am combining quantitative synthesis and seed ecophysiology experiments to explore how different germination traits are coordinated with other traits commonly used to define plant ecological strategies.
+</p>
+
+<p>
+My ultimate goal as a researcher is to build knowledge about the seeds of tropical ecosystems, with the hope that this information can contribute to their conservation and ecological restoration. Beyond these topics, I am interested in the decolonisation of science and in how scientific practices can become more inclusive and equitable. I have also ventured into <a href="https://caordonezparra.github.io/scicomm.html">science communication</a>, preparing pieces that engage broader audiences with seed science, and I am also enthusiastic about data visualisation.
+</p>
+
+<p>
+If you would like to discuss or collaborate on any of these topics, please do not hesitate to <a href="https://caordonezparra.github.io/contact.html">contact me</a>!
+</p>
+
+</div>
+
 </div>

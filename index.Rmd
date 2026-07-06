@@ -4,16 +4,16 @@ title: "Carlos A. Ordóñez-Parra"
 
 <br/>
 <center>
-<figure>
-  <img src="Images/Figure11.jpg" width="1200"/>
+<figure style="width: 110%; margin-left: -5%; margin-right: -5%;">
+  <img src="Images/Figure11.jpg" style="width: 100%; max-width: none;"/>
 </figure> 
 </center>
 <br/>
 
-<div style="text-align: justify">
-Hello, my name is [Carlos (he/him)](https://caordonezparra.github.io/about.html), and I am a PhD student in the Plant Biology Programme at Universidade Federal de Minas Gerais (Belo Horizonte, Brazil). **Welcome to my website!** Here, you will find some information about my research and other interests.
+<div style="text-align: left; line-height: 1.6;">
+Hi! My name is [Carlos A. Ordóñez-Parra (he/him)](https://caordonezparra.github.io/about.html), and I am a PhD candidate in the Plant Biology Programme at Universidade Federal de Minas Gerais, in Belo Horizonte, Brazil. On this website, you will find information [about me](https://caordonezparra.github.io/about.html), [my research](https://caordonezparra.github.io/projects.html), [my publications](https://caordonezparra.github.io/publications.html) and my other interests.
 
-I am a seed ecologist exploring the functional role of seeds in natural regeneration and community assembly in tropical ecosystems. My work integrates functional ecology, ecophysiology, phylogenetic comparative methods, and ecological synthesis to understand seed-driven ecological processes. Beyond research, I am passionate about science decolonization, inclusivity in academia, science communication, and data visualization.
+I am a seed scientist interested in the functional role of seeds in natural regeneration and community assembly in tropical ecosystems. My work integrates approaches from functional ecology, ecophysiology, phylogenetic comparative methods and ecological synthesis to understand how seeds respond to abiotic factors at the species level, and how these responses shape community-level patterns. 
 
-Currently, I am a member of the Ecology and Environmental Solutions Lab and the [Centre of Ecological Synthesis and Conservation](https://twitter.com/for_synthesis) at Universidade Federal de Minas Gerais. Please visit the [lab's website](https://eeslufmg.weebly.com/) for more information about our work.
+Beyond research, I am passionate about the decolonisation of science, inclusivity in academia, science communication and data visualisation.
 </div>

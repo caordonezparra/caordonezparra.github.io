@@ -1,7 +1,8 @@
 /* Whole document: */
 body{
-  font-family: Helvetica;
-  font-size: 15pt;
+  font-family: Avenir Next;
+  font-size: 16pt;
+  color: #555555;
 }
 /* Headers */
 h1,h2,h3,h4,h5,h6{

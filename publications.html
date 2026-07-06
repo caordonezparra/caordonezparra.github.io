@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -278,15 +278,115 @@ $(document).ready(function () {
 </div>
 
 
-<div style="text-align: justify">
-<p>Here you will find an updated list of my publications (last update,
-February 2025). If you can’t access any of these resources, feel free to
-<a href="mailto:carlos.ordonez.parra@gmail.com">e-mail me</a> or request
-a PDF through my <a
+<style>
+.publications-text {
+  text-align: left;
+  line-height: 1.6;
+  color: #444444;
+}
+
+.publications-text p {
+  margin-bottom: 1.1em;
+}
+
+.publication-figure {
+  width: 110%;
+  margin-left: -5%;
+  margin-right: -5%;
+  margin-top: 24px;
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.publication-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.publication-figure figcaption {
+  font-size: 0.75em;
+  line-height: 1.35;
+  color: #777777;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.publication-figure.narrow {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 900px) {
+  .publication-figure {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .publication-figure.narrow {
+    width: 100%;
+  }
+}
+</style>
+<div class="publications-text">
+<p>Here you will find an updated list of my publications. If you have
+problems accessing any of these, feel free to <a
+href="mailto:carlos.ordonez.parra@gmail.com">e-mail me</a> or request a
+PDF through my <a
 href="https://www.researchgate.net/profile/Carlos-Ordonez-Parra">ResearchGate
-profile</a>! <br/><br/></p>
+profile</a>!</p>
 <div id="peer-reviewed-papers" class="section level3">
 <h3>Peer-reviewed Papers</h3>
+<blockquote>
+<p>Amaral-Garcia L, <strong>Ordóñez-Parra CA</strong>, Agostini K,
+Barbosa-Dias LG, Fidelis A, Maruyama PK, Medeiros NF, Senna N, Rossatto
+DR, Melo PHA <em>et al.</em> (2026) <a
+href="https://doi.org/10.1093/aob/mcag176">Cerrado plant traits (CPT): a
+database of functional traits across vegetation types in a global
+biodiversity hotspot</a>. <em>Annals of Botany</em>, mcag176.</p>
+</blockquote>
+<blockquote>
+<p>Dolabela BM, Costa FV, Castagneyrol B, Lourenço GM,
+<strong>Ordóñez-Parra CA</strong>, Valadão-Mendes L &amp; Cornelissen TG
+(2026) <a href="https://doi.org/10.1111/jbi.70278">The impact of
+urbanization on the functions supported by arthropods: a global
+meta-analysis</a>. <em>Journal of Biogeography</em>, 53, e70278.</p>
+</blockquote>
+<blockquote>
+<p>Oliveira DN, <strong>Ordóñez-Parra CA</strong>, Chen S-C, TSTD
+Consortium &amp; Silveira FAO (2026) <a
+href="https://doi.org/10.1111/nph.71268">Tropical Seed Trait Database:
+advancing seed functional ecology in the world’s most biodiverse
+region</a>. <em>New Phytologist</em>, 251, 945–958.</p>
+</blockquote>
+<blockquote>
+<p>Nascimento B, Silva VHD, <strong>Ordóñez-Parra CA</strong>,
+Bosenbecker C, Bhakti T, Gomes IN, Valadão-Mendes LB, Boratto LC,
+Anselmo PA, de Amorim MD, Cornelissen TG, Pena JC &amp; Maruyama PK
+(2025) <a href="https://doi.org/10.1007/s11252-025-01817-0">Pollination
+and pest control in urban agriculture: a systematic review of the
+species associated with beneficial services</a>. <em>Urban
+Ecosystems</em>, 28, 222.</p>
+</blockquote>
+<blockquote>
+<p>Ávila AA, Pereira CC, de Oliveira CP, <strong>Ordóñez-Parra
+CA</strong>, Martins SG &amp; de Castro GC (2025) <a
+href="https://doi.org/10.5091/plecevo.160271">Forgotten guardians of
+biodiversity in the Atlantic Forest: seed rain confirms the ecological
+role of hedgerows in landscape connectivity</a>. <em>Plant Ecology and
+Evolution</em>, 158, 350–357.</p>
+</blockquote>
+<blockquote>
+<p>Gomes IN, Silva VHD, Gonçalves RB, <strong>Ordóñez-Parra CA</strong>,
+Procópio-Santos CP, Queroz SO, Castro DMP, Pena JC &amp; Maruyama PK
+(2025) <a
+href="https://doi.org/10.1016/j.landurbplan.2025.105440">Exploring the
+determinants of bee diversity in tropical urban areas and their
+implications for conservation</a>. <em>Landscape and Urban
+Planning</em>, 263, 105440.</p>
+</blockquote>
 <blockquote>
 <p>Faria FS, <strong>Ordóñez-Parra CA</strong>, Granata L, Resende LV
 &amp; Silveira FAO (2024) <a
@@ -301,16 +401,13 @@ href="https://doi.org/10.1093/aob/mcae160">Seed functional ecology in
 Brazilian rock outcrop vegetation: an integrative synthesis</a>.
 <em>Annals of Botany</em>, mcae160.</p>
 </blockquote>
-<center>
-<figure>
-<img src="Images/Figure15.png" width="800"/>
+<figure class="publication-figure narrow">
+<img src="Images/Figure15.png" alt="Seed trait differences among growth forms, species geographic distribution and microhabitat">
 <figcaption>
-<em>Seed trait differences among growth forms, species geographic
-distribution and microhabitat</em>
+Seed trait differences among growth forms, species geographic
+distribution and microhabitat.
 </figcaption>
 </figure>
-</center>
-<p><br/></p>
 <blockquote>
 <p>Reginato M†, <strong>Ordóñez-Parra CA†</strong>, Messeder JVS, Brito
 VLG, Dellinger A, Kriebel R, … &amp; Silveira FAO (2024) <a
@@ -343,16 +440,13 @@ Ecology</em>, e13924.</p>
 </blockquote>
 </div>
 </div>
-<center>
-<figure>
-<img src="Images/Figure13.png" width="800"/>
+<figure class="publication-figure narrow">
+<img src="Images/Figure13.png" alt="Summary of the ten restoration principles presented in the paper">
 <figcaption>
-<em>Summary of the ten principles presented in the paper.</em>
+Summary of the ten principles presented in the paper.
 </figcaption>
 </figure>
-</center>
-<p><br/></p>
-<div style="text-align: justify">
+<div class="publications-text">
 <blockquote>
 <p><strong>Ordóñez‐Parra CA</strong>, Dayrell RLC, Negreiros D, Andrade
 AC, Andrade LG, Antonini Y, … &amp; Silveira FAO (2022). <a
@@ -373,7 +467,6 @@ dataset.</em>
 </center>
 <p><br/></p>
 <div style="text-align: justify">
-
 <blockquote>
 <p>Toone TA, Ahler SJ, Larson JE, Luong JC, Martínez‐Baena F,
 <strong>Ordóñez‐Parra CA</strong>, … &amp; van der Ouderaa IB (2022). <a
@@ -481,6 +574,7 @@ Ecológica &amp; Universidad Católica de Oriente, 357-384.</p>
 </blockquote>
 </div>
 <p> </p>
+</div>
 </div>
 
 
